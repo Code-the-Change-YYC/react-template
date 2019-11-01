@@ -3,19 +3,12 @@ import React from 'react';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <p>Hello! Here's a to-do:</p>
+      <ul>
+        <li>Import styled-components, Material UI</li>
+        <li>Handle back-end REST API</li>
+        <li>Create simple template</li>
+      </ul>
     </div>
   );
 }
