@@ -10,6 +10,7 @@ const Landing = () => (
       <li>Material UI</li>
       <li>React Router</li>
       <li>Redux</li>
+      <li>UNSD API Example</li>
     </ul>
     <p>
       This boilerplate site was bootstrapped with Create React App.
