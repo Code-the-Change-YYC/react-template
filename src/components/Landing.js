@@ -8,6 +8,7 @@ const Landing = () => (
     </p>
     <ul>
       <li>Material UI</li>
+      <li>Styled Components</li>
       <li>React Router</li>
       <li>Redux</li>
     </ul>
