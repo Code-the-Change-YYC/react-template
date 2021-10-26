@@ -44,10 +44,10 @@ const Header = () => (
       <Title>Hack the Change 2021</Title>
       <Subtitle>Code the Change YYC</Subtitle>
     </Titling>
-    <NavBar>
+    {/* <NavBar>
       <NavLink to='/'>Home</NavLink>
       <NavLink to='/unsd'>UNSD API</NavLink>
-    </NavBar>
+    </NavBar> */}
   </Wrapper>
 );
 
